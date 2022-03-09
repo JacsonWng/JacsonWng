@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacsonWng
+- 👋 Hi, I’m @JacksonWng
 - 👀 I’m interested in robot making,3D modeling,design of hardware circuit and programming.
 - 🌱 I’m currently learning mathematics,English and robot control.
 - 💞️ I’m looking to collaborate on who have similar interests.
